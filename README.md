@@ -61,10 +61,6 @@ ________________________________________________________________________________
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajan1140&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true" width="300px" />
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rajan1140&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
 
 _____________________________________________________________________________________________________________________________________________________
 
