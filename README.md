@@ -49,15 +49,24 @@ ________________________________________________________________________________
 
 <h1>📊 GitHub Stats</h1>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajan1140&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajan1140&theme=tokyonight" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajan1140&show_icons=true&theme=tokyonight" width="400px" />
 </p>
 
-<p align="center">
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajan1140&theme=tokyonight" width="400px" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajan1140&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true" width="300px" />
+</p>
+
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=rajan1140&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
+
+_____________________________________________________________________________________________________________________________________________________
 
 
 
