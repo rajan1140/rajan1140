@@ -17,7 +17,7 @@ ________________________________________________________________________________
 <h1> 🌐 Connect With Me</h1>
 _____________________________________________________________________________________________________________________________________________________
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/rajan-chaudhary-5a05b7343/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/rajansingh_patel00/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="https://github.com/rajan1140"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
