@@ -23,7 +23,7 @@ ________________________________________________________________________________
   <a href="https://github.com/rajan1140"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.facebook.com/ram.taul.374/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
-____________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________
 
 <h1>💻 Tech Stack</h1>
 
