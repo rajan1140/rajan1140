@@ -50,21 +50,27 @@ ________________________________________________________________________________
 <h1>📊 GitHub Stats</h1>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajan1140&show_icons=true&theme=tokyonight" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajan1140&show_icons=true&theme=tokyonight" width="450px" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajan1140&theme=tokyonight" width="400px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajan1140&theme=tokyonight" width="500px" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajan1140&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true" width="300px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajan1140&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true" width="350px" />
 </p>
 
 
 _____________________________________________________________________________________________________________________________________________________
 
+<h1>✍️ Quote</h1>
 
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Artificial%20Intelligence%20is%20not%20about%20replacing%20humans%2C%20it%27s%20about%20amplifying%20human%20potential.&author=Sundar%20Pichai" />
+</p>
+
+_________________________________________________________________________________________________________________________________________________________
 
 
 
