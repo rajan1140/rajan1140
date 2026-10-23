@@ -15,7 +15,9 @@ I'm a BCA student at ITS College of Professional Studies, Greater Noida. Interes
 ___________________________________________________________________________________________________________________________________________________
 
 <h1> 🌐 Connect With Me</h1>
-___________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajan-chaudhary)
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajanchaudhary)
+
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/RajanTHO)
