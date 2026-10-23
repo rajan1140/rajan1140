@@ -23,7 +23,7 @@ ________________________________________________________________________________
   <a href="https://github.com/rajan1140"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.facebook.com/ram.taul.374/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
-____________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________
 
 <h1>💻 Tech Stack</h1>
 
@@ -47,7 +47,16 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________________________________________________
 
+<h1>📊 GitHub Stats</h1>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajan1140&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajan1140&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajan1140&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 
 
