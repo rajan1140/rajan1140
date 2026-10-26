@@ -11,7 +11,10 @@ I'm a BCA student at ITS College of Professional Studies, Greater Noida. Interes
 - 💻 Learning Python, Java, and Web Development
 - 🚀 Building practical projects to strengthen my technical skills
 - 🎯 Goal: Grow as a Software Developer and AI professional
-- 📧 Email: rajanchaudharyrc_bca25@its.edu.in
+- 📧<div class="form-group">
+       <label for="form-email">Your Email</label>
+              <input type="email" id="form-email" name="email" placeholder="e.g. priya@example.com" required />
+            </div>
 ____________________________________________________________________________________________________________________________________________________
 
 <h1> 🌐 Connect With Me</h1>
