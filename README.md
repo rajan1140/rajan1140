@@ -2,7 +2,7 @@
 _____________________________________________________________________________________________________________________________________________
 
 <h1> Hi there! I'm Rajan Chaudhary 👋</h1>
-_____________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________
 <h3>*BCA Student | AI & Machine Learning Enthusiast | Aspiring Software Developer*</h3>
 
 I'm a BCA student at ITS College of Professional Studies, Greater Noida. Interested in software development, Artificial Intelligence, and building practical projects.
